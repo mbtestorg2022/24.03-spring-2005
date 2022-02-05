@@ -36,45 +36,418 @@ Reading Assignments
 
 There is a reading assignment for each class meeting. These are often relatively short, but they aren't easy; they are not introductions to philosophy but examples of it. If you have trouble understanding what the author says, please ask.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1**{{< /td-colspan >}} |||
-| 1 | Thinking Like a Philosopher | For next week, read Perry right through, and Parfit, chap. 10 |
-| {{< td-colspan 3 >}}**Week 2**{{< /td-colspan >}} |||
-| 2 | Staying One and the Same Thing Over Time | &nbsp; |
-| 3 | Persistence for Persons | For next week read Parfit, chap. 11 |
-| {{< td-colspan 3 >}}**Week 3**{{< /td-colspan >}} |||
-| 4 | Remembering who you are | &nbsp; |
-| 5 | Personal Identity as Psychological Continuity | For next week read Parfit, chaps. 12-13 |
-| {{< td-colspan 3 >}}**Week 4**{{< /td-colspan >}} |||
-| 6 | The Importance of Being Identical (?) | &nbsp; |
-| 7 | Identity is Not what Matters | For next week, read Parfit, chap. 15 |
-| {{< td-colspan 3 >}}**Week 5**{{< /td-colspan >}} |||
-| 8 | The Truth will Set you Free | &nbsp; |
-| 9 | First Debate | For next week, read Harman and Thomson, chap. 6 |
-| {{< td-colspan 3 >}}**Week 6**{{< /td-colspan >}} |||
-| 10 | Knowing Right from Wrong | &nbsp; |
-| 11 | What's your Evidence? | For next week, read Harman and Thomson, chap. 7 |
-| {{< td-colspan 3 >}}**Week 7**{{< /td-colspan >}} |||
-| 12 | Not a Fact but a Feeling | &nbsp; |
-| 13 | True for you, Maybe | For next week, read Harman and Thomson, chaps. 1-5 |
-| {{< td-colspan 3 >}}**Week 8**{{< /td-colspan >}} |||
-| 14 | Lessons from Einstein on Ethics | &nbsp; |
-| 15 | What are we Arguing about? | For next week, read Harman and Thomson, chaps. 9 and 10 |
-| {{< td-colspan 3 >}}**Week 9**{{< /td-colspan >}} |||
-| 16 | Insiders, Outsiders | &nbsp; |
-| 17 | Second Debate | For next week, read Blackburn "The World", Popper selections, and Putnam, "The 'corroboration' of  {{< br >}}theories" |
-| {{< td-colspan 3 >}}**Week 10**{{< /td-colspan >}} |||
-| 18 | Galileo, Descartes, Berkeley, Locke, Kant | &nbsp; |
-| 19 | Hume, Popper, Putnam | For next week, read Kuhn, chaps. 1-5 |
-| {{< td-colspan 3 >}}**Week 11**{{< /td-colspan >}} |||
-| 20 | Kuhn as Kant all Over Again | For next week, read Kuhn, chaps. 6-13 |
-| {{< td-colspan 3 >}}**Week 12**{{< /td-colspan >}} |||
-| 21 | Four Kinds of Incommensurability | &nbsp; |
-| 22 | No Shared Reasons | For next week, read chaps. 6-13 again, plus the Postscript |
-| {{< td-colspan 3 >}}**Week 13**{{< /td-colspan >}} |||
-| 23 | No Shared Meanings | &nbsp; |
-| 24 | No Shared World | For next week, reread the Postscript |
-| {{< td-colspan 3 >}}**Week 14**{{< /td-colspan >}} |||
-| 25 | The Idea of Progress | &nbsp; |
-| 26 | Third Debate |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Thinking Like a Philosopher
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Perry right through, and Parfit, chap. 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Staying One and the Same Thing Over Time
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Persistence for Persons
+{{< tdclose >}}
+{{< tdopen >}}
+For next week read Parfit, chap. 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Remembering who you are
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Personal Identity as Psychological Continuity
+{{< tdclose >}}
+{{< tdopen >}}
+For next week read Parfit, chaps. 12-13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Importance of Being Identical (?)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Identity is Not what Matters
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Parfit, chap. 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Truth will Set you Free
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+First Debate
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Harman and Thomson, chap. 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Knowing Right from Wrong
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+What's your Evidence?
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Harman and Thomson, chap. 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Not a Fact but a Feeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+True for you, Maybe
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Harman and Thomson, chaps. 1-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Lessons from Einstein on Ethics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+What are we Arguing about?
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Harman and Thomson, chaps. 9 and 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Insiders, Outsiders
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Second Debate
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Blackburn "The World", Popper selections, and Putnam, "The 'corroboration' of  
+theories"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Galileo, Descartes, Berkeley, Locke, Kant
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Hume, Popper, Putnam
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Kuhn, chaps. 1-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Kuhn as Kant all Over Again
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read Kuhn, chaps. 6-13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Four Kinds of Incommensurability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+No Shared Reasons
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, read chaps. 6-13 again, plus the Postscript
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+No Shared Meanings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+No Shared World
+{{< tdclose >}}
+{{< tdopen >}}
+For next week, reread the Postscript
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+The Idea of Progress
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Third Debate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
