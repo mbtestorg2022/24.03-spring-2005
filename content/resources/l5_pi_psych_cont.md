@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   a mistaken view of ourselves, Williams rejects all this, and Parfit''s reply.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-03-relativism-reason-and-reality-spring-2005/ac105faba41bbe36d2be200e77e99594_l5_pi_psych_cont.pdf
 file_type: application/pdf
+parent_uid: 9614c4d6-7443-885a-a4d6-410e9ba80299
 resourcetype: Document
 title: l5_pi_psych_cont.pdf
 uid: ac105fab-a41b-be36-d2be-200e77e99594
